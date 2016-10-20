@@ -1,0 +1,10 @@
+MONERY_MILLION=<font color='#00ff06'>生命＋{1}<br>统率＋{0}<br>武力＋{2}<br>智力＋{3}<br>速度＋{4}</font>
+MONERY_CALCULATE=亿
+GLOBAL_CONFIRM=确定
+GLOBAL_CANCEL=取消
+ALLIANCE_LOOK=照顾了
+ARENA_TODAY=今天
+好友=今天
+黑名单=今天
+最近=今天
+分身=<font color='#00ff06'>今天</font>

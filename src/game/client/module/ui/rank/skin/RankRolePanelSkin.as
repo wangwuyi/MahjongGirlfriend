@@ -1,0 +1,171 @@
+package game.client.module.ui.rank.skin
+{
+
+	public class RankRolePanelSkin
+	{
+		public static var skin:Object=
+			{name:"RankRolePanel",type:"Container",x:0,y:0,width:288,height:500,
+				children:
+				[
+					{name:"xingzhuang4",type:"Image",x:0,y:0,width:288,height:500,normal:{link:"RankRolePanel_xingzhuang4",x:0,y:0,width:288,height:500}},
+					{name:"xingzhuang",type:"Image",x:9,y:31,width:270,height:460,normal:{link:"RankRolePanel_xingzhuang",x:0,y:0,width:270,height:460}},
+					{name:"huawenli",type:"Image",x:10,y:32,width:268,height:334,normal:{link:"RankRolePanel_huawenli",x:0,y:0,width:268,height:334}},
+					{name:"shizhuang",type:"Button",x:113,y:325,width:66,height:40,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:66,height:40,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_shizhuang",x:0,y:0,width:66,height:40}},
+							{name:"txtshizhuang",type:"Label",x:16,y:19,width:35,height:20,content:"<font color='#ffea00'><b>时装</b></font>",format:{align:"center",bold:true,color:0xffea00,font:"SimSun",italic:false,leading:0,letterSpacing:-0.5,size:14,underline:false}}
+						]
+					},
+					{name:"wenshi1",type:"Image",x:4,y:4,width:280,height:28,normal:{link:"RankRolePanel_wenshi1",x:0,y:0,width:280,height:28}},
+					{name:"equip14",type:"Container",x:229,y:319,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip13",type:"Container",x:183,y:318,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip12",type:"Container",x:62,y:319,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip11",type:"Container",x:16,y:319,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip10",type:"Container",x:229,y:273,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip9",type:"Container",x:230,y:228,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip8",type:"Container",x:229,y:183,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip7",type:"Container",x:229,y:139,width:44,height:43,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:43,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:43}}
+						]
+					},
+					{name:"equip6",type:"Container",x:229,y:93,width:44,height:46,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:46,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:46}}
+						]
+					},
+					{name:"equip5",type:"Container",x:16,y:93,width:44,height:43,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:43,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:43}}
+						]
+					},
+					{name:"equip4",type:"Container",x:16,y:139,width:44,height:43,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:43,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:43}}
+						]
+					},
+					{name:"equip3",type:"Container",x:16,y:183,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip2",type:"Container",x:16,y:228,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"equip1",type:"Container",x:16,y:274,width:44,height:44,
+						children:
+						[
+							{name:"kuang",type:"Image",x:0,y:0,width:44,height:44,normal:{link:"RankRolePanel_kuang",x:0,y:0,width:44,height:44}}
+						]
+					},
+					{name:"juese",type:"Image",x:119,y:5,width:51,height:24,normal:{link:"RankRolePanel_juese",x:0,y:0,width:51,height:24}},
+					{name:"henglanxian",type:"Image",x:11,y:84,width:266,height:283,normal:{link:"RankRolePanel_henglanxian",x:0,y:0,width:266,height:283}},
+					{name:"juesetupian",type:"Image",x:112,y:173,width:66,height:133,normal:{link:"RankRolePanel_juesetupian",x:0,y:0,width:66,height:133}},
+					{name:"zhuangbei",type:"Button",x:15,y:376,width:39,height:37,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:39,height:37,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_zhuangbei",x:0,y:0,width:39,height:37}}
+						]
+					},
+					{name:"taozhuang",type:"Button",x:59,y:378,width:37,height:35,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:37,height:35,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_taozhuang1",x:0,y:0,width:37,height:35}}
+						]
+					},
+					{name:"shenhun",type:"Button",x:101,y:378,width:37,height:35,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:37,height:35,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_taozhuang2",x:0,y:0,width:37,height:35}}
+						]
+					},
+					{name:"zhenfa",type:"Button",x:143,y:378,width:37,height:35,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:37,height:35,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_taozhuang3",x:0,y:0,width:37,height:35}}
+						]
+					},
+					{name:"linhun",type:"Button",x:188,y:378,width:37,height:35,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:37,height:35,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_taozhuang4",x:0,y:0,width:37,height:35}}
+						]
+					},
+					{name:"xianggong",type:"Button",x:232,y:378,width:37,height:35,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:37,height:35,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_taozhuang5",x:0,y:0,width:37,height:35}}
+						]
+					},
+					{name:"chongbai",type:"Image",x:30,y:418,width:17,height:17,normal:{link:"RankRolePanel_chongbai",x:0,y:0,width:17,height:17}},
+					{name:"txtchongbai",type:"Label",x:52,y:420,width:80,height:17,content:"<font color='#ffff00'>崇拜次数：172</font>",format:{align:"center",bold:false,color:0xffff00,font:"SimSun",italic:false,leading:0,letterSpacing:-0.5,size:12,underline:false}},
+					{name:"bishi",type:"Image",x:154,y:418,width:17,height:17,normal:{link:"RankRolePanel_bishi",x:0,y:0,width:17,height:17}},
+					{name:"txtbishi",type:"Label",x:176,y:420,width:80,height:17,content:"<font color='#00ff23'>崇拜次数：172</font>",format:{align:"center",bold:false,color:0x00ff23,font:"SimSun",italic:false,leading:0,letterSpacing:-0.5,size:12,underline:false}},
+					{name:"txtshenyucishu",type:"Label",x:71,y:469,width:148,height:17,content:"<font color='#00ff23'>剩余崇拜和鄙视次数：10/10</font>",format:{align:"center",bold:false,color:0x00ff23,font:"SimSun",italic:false,leading:0,letterSpacing:-0.5,size:12,underline:false}},
+					{name:"chongbai",type:"Button",x:64,y:441,width:72,height:24,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:72,height:24,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_chongbai1111",x:0,y:0,width:72,height:24}},
+							{name:"txtchongbai",type:"Label",x:11,y:4,width:54,height:17,content:"<font color='#ffffff'>崇拜一下</font>",format:{align:"left",bold:false,color:0xffffff,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:12,underline:false}}
+						]
+					},
+					{name:"bishi",type:"Button",x:154,y:441,width:72,height:24,
+						children:
+						[
+							{name:"myScaleImage",type:"ScaleImage",x:0,y:0,width:72,height:24,top:4,right:4,bottom:4,left:4,normal:{link:"RankRolePanel_bishi111",x:0,y:0,width:72,height:24}},
+							{name:"txtbishi",type:"Label",x:11,y:4,width:54,height:17,content:"<font color='#ffffff'>崇拜一下</font>",format:{align:"left",bold:false,color:0xffffff,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:12,underline:false}}
+						]
+					},
+					{name:"txtmingxi",type:"Label",x:80,y:41,width:52,height:20,content:"<font color='#00efff'><b>田继阁</b></font>",format:{align:"center",bold:true,color:0x00efff,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:14,underline:false}},
+					{name:"txtxxxaa",type:"Label",x:127,y:41,width:20,height:20,content:"<font color='#ffffff'>·</font>",format:{align:"center",bold:false,color:0xffffff,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:14,underline:false}},
+					{name:"txtmingwanjianzisad",type:"Label",x:139,y:41,width:90,height:20,content:"<font color='#ffffff'><b>[2]玩家名字</b></font>",format:{align:"center",bold:true,color:0xffffff,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:14,underline:false}},
+					{name:"txtdengji",type:"Label",x:73,y:63,width:60,height:17,content:"<font color='#ffe945'><b>等级：70</b></font>",format:{align:"center",bold:true,color:0xffe945,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:12,underline:false}},
+					{name:"txtzhiyejianxia",type:"Label",x:159,y:63,width:72,height:17,content:"<font color='#ffe945'><b>职业：剑侠</b></font>",format:{align:"center",bold:true,color:0xffe945,font:"SimSun",italic:false,leading:0,letterSpacing:0,size:12,underline:false}}
+				]
+			};
+	}
+}
